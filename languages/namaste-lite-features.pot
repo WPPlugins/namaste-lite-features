@@ -1,0 +1,784 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#: includes/config.php:996 includes/config.php:1548 includes/config.php:1558
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-01-26 20:20+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: includes/class-namaste-admin-insert.php:38
+#: includes/class-namaste-admin-insert.php:371
+msgid "Insert Shortcode"
+msgstr ""
+
+#: includes/class-namaste-admin-insert.php:263
+msgid "Select the shortcode type"
+msgstr ""
+
+#: includes/class-namaste-admin-insert.php:336
+#: includes/class-namaste-admin-insert.php:349
+msgid "Remove"
+msgstr ""
+
+#: includes/class-namaste-admin-insert.php:372
+msgid "Cancel"
+msgstr ""
+
+#: includes/config.php:584
+msgid "Section"
+msgstr ""
+
+#: includes/config.php:591 includes/config.php:683
+msgid "Padding"
+msgstr ""
+
+#: includes/config.php:592 includes/config.php:684
+msgid "Add the size of the padding (px)."
+msgstr ""
+
+#: includes/config.php:597
+msgid "Background color"
+msgstr ""
+
+#: includes/config.php:598 includes/config.php:604 includes/config.php:644
+#: includes/config.php:868
+msgid "Add a color code."
+msgstr ""
+
+#: includes/config.php:603
+msgid "Font color"
+msgstr ""
+
+#: includes/config.php:609
+msgid "Background image"
+msgstr ""
+
+#: includes/config.php:610
+msgid "Add the link of Your image."
+msgstr ""
+
+#: includes/config.php:615
+msgid "Image position"
+msgstr ""
+
+#: includes/config.php:616
+msgid "The position of the image."
+msgstr ""
+
+#: includes/config.php:618
+msgid "Background"
+msgstr ""
+
+#: includes/config.php:619
+msgid "Pattern"
+msgstr ""
+
+#: includes/config.php:620
+msgid "Left"
+msgstr ""
+
+#: includes/config.php:621
+msgid "Right"
+msgstr ""
+
+#: includes/config.php:627
+msgid "Parallax"
+msgstr ""
+
+#: includes/config.php:628
+msgid "Set if You want parallax image."
+msgstr ""
+
+#: includes/config.php:630
+msgid "no"
+msgstr ""
+
+#: includes/config.php:631
+msgid "yes"
+msgstr ""
+
+#: includes/config.php:637
+msgid "Layer opacity"
+msgstr ""
+
+#: includes/config.php:638
+msgid "Add a number for the layer opacity (0-99)."
+msgstr ""
+
+#: includes/config.php:643
+msgid "Layer color"
+msgstr ""
+
+#: includes/config.php:649
+msgid "Border top"
+msgstr ""
+
+#: includes/config.php:650 includes/config.php:656
+msgid "Add custom css for border."
+msgstr ""
+
+#: includes/config.php:655
+msgid "Border bottom"
+msgstr ""
+
+#: includes/config.php:661 includes/config.php:763
+msgid "Custom CSS"
+msgstr ""
+
+#: includes/config.php:662 includes/config.php:764
+msgid "Add custom css."
+msgstr ""
+
+#: includes/config.php:667 includes/config.php:699 includes/config.php:715
+#: includes/config.php:775 includes/config.php:803 includes/config.php:895
+#: includes/config.php:927 includes/config.php:953 includes/config.php:1032
+#: includes/config.php:1193 includes/config.php:1299 includes/config.php:1311
+#: includes/config.php:1348 includes/config.php:1601
+msgid "Content"
+msgstr ""
+
+#: includes/config.php:668 includes/config.php:700 includes/config.php:716
+#: includes/config.php:776 includes/config.php:804 includes/config.php:896
+#: includes/config.php:928 includes/config.php:954 includes/config.php:1080
+#: includes/config.php:1133 includes/config.php:1166 includes/config.php:1182
+#: includes/config.php:1270 includes/config.php:1276 includes/config.php:1312
+#: includes/config.php:1349 includes/config.php:1381 includes/config.php:1602
+msgid "Add the content."
+msgstr ""
+
+#: includes/config.php:676
+msgid "Box"
+msgstr ""
+
+#: includes/config.php:689 includes/config.php:917 includes/config.php:943
+msgid "Style"
+msgstr ""
+
+#: includes/config.php:690 includes/config.php:918 includes/config.php:944
+msgid "Select one from the styles."
+msgstr ""
+
+#: includes/config.php:692 includes/config.php:734 includes/config.php:920
+#: includes/config.php:946
+msgid "1"
+msgstr ""
+
+#: includes/config.php:693 includes/config.php:735 includes/config.php:921
+#: includes/config.php:947
+msgid "2"
+msgstr ""
+
+#: includes/config.php:708
+msgid "Container"
+msgstr ""
+
+#: includes/config.php:724 includes/config.php:1529
+msgid "Columns"
+msgstr ""
+
+#: includes/config.php:731 includes/config.php:857 includes/config.php:993
+#: includes/config.php:1048 includes/config.php:1095
+msgid "Size"
+msgstr ""
+
+#: includes/config.php:732
+msgid "Set the size of the column (1 is the smallest, 12 is fullwidth)."
+msgstr ""
+
+#: includes/config.php:736
+msgid "3"
+msgstr ""
+
+#: includes/config.php:737
+msgid "4"
+msgstr ""
+
+#: includes/config.php:738
+msgid "5"
+msgstr ""
+
+#: includes/config.php:739
+msgid "6"
+msgstr ""
+
+#: includes/config.php:740
+msgid "7"
+msgstr ""
+
+#: includes/config.php:741
+msgid "8"
+msgstr ""
+
+#: includes/config.php:742
+msgid "9"
+msgstr ""
+
+#: includes/config.php:743
+msgid "10"
+msgstr ""
+
+#: includes/config.php:744
+msgid "11"
+msgstr ""
+
+#: includes/config.php:745
+msgid "12"
+msgstr ""
+
+#: includes/config.php:751
+msgid "Padding left"
+msgstr ""
+
+#: includes/config.php:752
+msgid "Padding left (px)."
+msgstr ""
+
+#: includes/config.php:757
+msgid "Padding right"
+msgstr ""
+
+#: includes/config.php:758
+msgid "Padding right (px)."
+msgstr ""
+
+#: includes/config.php:768
+msgid "Last column"
+msgstr ""
+
+#: includes/config.php:769
+msgid "Set whether this is the last column."
+msgstr ""
+
+#: includes/config.php:784 includes/config.php:791 includes/config.php:1062
+#: includes/config.php:1109 includes/config.php:1148
+msgid "Align"
+msgstr ""
+
+#: includes/config.php:792 includes/config.php:1063 includes/config.php:1110
+#: includes/config.php:1149
+msgid "Set the align."
+msgstr ""
+
+#: includes/config.php:794 includes/config.php:1026 includes/config.php:1065
+#: includes/config.php:1112 includes/config.php:1151
+msgid "left"
+msgstr ""
+
+#: includes/config.php:795 includes/config.php:1025 includes/config.php:1067
+#: includes/config.php:1114 includes/config.php:1153
+msgid "right"
+msgstr ""
+
+#: includes/config.php:796 includes/config.php:1066 includes/config.php:1113
+#: includes/config.php:1152
+msgid "center"
+msgstr ""
+
+#: includes/config.php:797
+msgid "justify"
+msgstr ""
+
+#: includes/config.php:812
+msgid "Break"
+msgstr ""
+
+#: includes/config.php:823
+msgid "Clear"
+msgstr ""
+
+#: includes/config.php:834
+msgid "Spacer"
+msgstr ""
+
+#: includes/config.php:841
+msgid "Height"
+msgstr ""
+
+#: includes/config.php:842
+msgid "Spacer`s height (px)."
+msgstr ""
+
+#: includes/config.php:850
+msgid "Separator"
+msgstr ""
+
+#: includes/config.php:858
+msgid "Select the size of the separator."
+msgstr ""
+
+#: includes/config.php:860
+msgid "Normal"
+msgstr ""
+
+#: includes/config.php:861
+msgid "Small"
+msgstr ""
+
+#: includes/config.php:867 includes/config.php:1126 includes/config.php:1159
+msgid "Color"
+msgstr ""
+
+#: includes/config.php:873
+msgid "Margin"
+msgstr ""
+
+#: includes/config.php:874
+msgid "Add the size of the margin (px)."
+msgstr ""
+
+#: includes/config.php:878 includes/config.php:1015 includes/config.php:1072
+#: includes/config.php:1119 includes/config.php:1335 includes/config.php:1357
+#: includes/config.php:1363 includes/config.php:1391 includes/config.php:1427
+#: includes/config.php:1463
+msgid "Icon"
+msgstr ""
+
+#: includes/config.php:879 includes/config.php:1016 includes/config.php:1073
+#: includes/config.php:1120 includes/config.php:1336 includes/config.php:1364
+msgid "Select the icon."
+msgstr ""
+
+#: includes/config.php:888
+msgid "Dropcap"
+msgstr ""
+
+#: includes/config.php:904
+msgid "Blockquote"
+msgstr ""
+
+#: includes/config.php:911 includes/config.php:1583
+msgid "Author"
+msgstr ""
+
+#: includes/config.php:912 includes/config.php:1584
+msgid "Add the author."
+msgstr ""
+
+#: includes/config.php:936
+msgid "Highlight"
+msgstr ""
+
+#: includes/config.php:962
+msgid "Button"
+msgstr ""
+
+#: includes/config.php:969 includes/config.php:1263 includes/config.php:1305
+#: includes/config.php:1342 includes/config.php:1398 includes/config.php:1434
+#: includes/config.php:1470
+msgid "Link"
+msgstr ""
+
+#: includes/config.php:970
+msgid "Add the link."
+msgstr ""
+
+#: includes/config.php:975
+msgid "Color type"
+msgstr ""
+
+#: includes/config.php:976
+msgid "Select the color type."
+msgstr ""
+
+#: includes/config.php:978
+msgid "basic"
+msgstr ""
+
+#: includes/config.php:979
+msgid "inverse"
+msgstr ""
+
+#: includes/config.php:980
+msgid "black & white"
+msgstr ""
+
+#: includes/config.php:981
+msgid "custom"
+msgstr ""
+
+#: includes/config.php:987
+msgid "Custom color"
+msgstr ""
+
+#: includes/config.php:988
+msgid "Add a color code for custom button."
+msgstr ""
+
+#: includes/config.php:994
+msgid "Select the size."
+msgstr ""
+
+#: includes/config.php:997
+msgid "small"
+msgstr ""
+
+#: includes/config.php:998
+msgid "normal"
+msgstr ""
+
+#: includes/config.php:999
+msgid "big"
+msgstr ""
+
+#: includes/config.php:1000
+msgid "bigger"
+msgstr ""
+
+#: includes/config.php:1006
+msgid "Target"
+msgstr ""
+
+#: includes/config.php:1007
+msgid "Select a target."
+msgstr ""
+
+#: includes/config.php:1009
+msgid "self"
+msgstr ""
+
+#: includes/config.php:1010
+msgid "blank"
+msgstr ""
+
+#: includes/config.php:1022
+msgid "Icon position"
+msgstr ""
+
+#: includes/config.php:1023
+msgid "Left or right."
+msgstr ""
+
+#: includes/config.php:1033
+msgid "Text on button"
+msgstr ""
+
+#: includes/config.php:1041
+msgid "Heading"
+msgstr ""
+
+#: includes/config.php:1049 includes/config.php:1096
+msgid "Select the font size."
+msgstr ""
+
+#: includes/config.php:1051 includes/config.php:1098
+msgid "h1"
+msgstr ""
+
+#: includes/config.php:1052 includes/config.php:1099
+msgid "h2"
+msgstr ""
+
+#: includes/config.php:1053 includes/config.php:1100
+msgid "h3"
+msgstr ""
+
+#: includes/config.php:1054 includes/config.php:1101
+msgid "h4"
+msgstr ""
+
+#: includes/config.php:1055 includes/config.php:1102
+msgid "h5"
+msgstr ""
+
+#: includes/config.php:1056 includes/config.php:1103
+msgid "h6"
+msgstr ""
+
+#: includes/config.php:1079 includes/config.php:1132 includes/config.php:1269
+#: includes/config.php:1330 includes/config.php:1505
+msgid "Title"
+msgstr ""
+
+#: includes/config.php:1088
+msgid "Heading 2"
+msgstr ""
+
+#: includes/config.php:1127 includes/config.php:1160
+msgid "You can add specific color."
+msgstr ""
+
+#: includes/config.php:1141
+msgid "Subtext"
+msgstr ""
+
+#: includes/config.php:1165
+msgid "Text"
+msgstr ""
+
+#: includes/config.php:1174
+msgid "Big Heading"
+msgstr ""
+
+#: includes/config.php:1181
+msgid "Big text"
+msgstr ""
+
+#: includes/config.php:1187
+msgid "Max width"
+msgstr ""
+
+#: includes/config.php:1188
+msgid "Add the width of the area (px)."
+msgstr ""
+
+#: includes/config.php:1194
+msgid "The content of the smalltext area."
+msgstr ""
+
+#: includes/config.php:1202
+msgid "FlexSlider"
+msgstr ""
+
+#: includes/config.php:1205 includes/config.php:1287
+msgid "Click 'Add Slide' to add a new slide."
+msgstr ""
+
+#: includes/config.php:1212 includes/config.php:1247 includes/config.php:1297
+msgid "Image"
+msgstr ""
+
+#: includes/config.php:1213 includes/config.php:1248
+msgid "Add the link of the image."
+msgstr ""
+
+#: includes/config.php:1217 includes/config.php:1316
+msgid "Add Slide"
+msgstr ""
+
+#: includes/config.php:1224
+msgid "Map"
+msgstr ""
+
+#: includes/config.php:1231
+msgid "Code"
+msgstr ""
+
+#: includes/config.php:1232
+msgid "Add the iframe code from Google Map."
+msgstr ""
+
+#: includes/config.php:1240
+msgid "Imagebox"
+msgstr ""
+
+#: includes/config.php:1253
+msgid "Link type"
+msgstr ""
+
+#: includes/config.php:1254
+msgid "Select the link type."
+msgstr ""
+
+#: includes/config.php:1264
+msgid "Link for the image."
+msgstr ""
+
+#: includes/config.php:1275
+msgid "Description"
+msgstr ""
+
+#: includes/config.php:1284
+msgid "Content Slider"
+msgstr ""
+
+#: includes/config.php:1294
+msgid "Type"
+msgstr ""
+
+#: includes/config.php:1295
+msgid "Select the type of the slide."
+msgstr ""
+
+#: includes/config.php:1298
+msgid "Video"
+msgstr ""
+
+#: includes/config.php:1306
+msgid "Link of the image or the Youtube ID of the video."
+msgstr ""
+
+#: includes/config.php:1323
+msgid "Iconbox"
+msgstr ""
+
+#: includes/config.php:1331
+msgid "Add the title."
+msgstr ""
+
+#: includes/config.php:1343
+msgid "Add a link or leave it blank."
+msgstr ""
+
+#: includes/config.php:1373
+msgid "Action Call"
+msgstr ""
+
+#: includes/config.php:1380
+msgid "<strong>Main Title</strong>"
+msgstr ""
+
+#: includes/config.php:1386
+msgid "<strong>1. column</strong><br>Title"
+msgstr ""
+
+#: includes/config.php:1387 includes/config.php:1405 includes/config.php:1423
+#: includes/config.php:1441 includes/config.php:1459 includes/config.php:1477
+msgid "Add a title."
+msgstr ""
+
+#: includes/config.php:1392 includes/config.php:1428 includes/config.php:1464
+msgid "Select an icon."
+msgstr ""
+
+#: includes/config.php:1399 includes/config.php:1435 includes/config.php:1471
+msgid "Add a link for the area."
+msgstr ""
+
+#: includes/config.php:1404 includes/config.php:1440 includes/config.php:1476
+msgid "Inside header"
+msgstr ""
+
+#: includes/config.php:1410 includes/config.php:1446 includes/config.php:1482
+msgid "Inside description"
+msgstr ""
+
+#: includes/config.php:1411 includes/config.php:1447 includes/config.php:1483
+msgid "Add a description."
+msgstr ""
+
+#: includes/config.php:1416 includes/config.php:1452 includes/config.php:1488
+msgid "Inside image"
+msgstr ""
+
+#: includes/config.php:1417 includes/config.php:1453 includes/config.php:1489
+msgid "Add a link for the inside image."
+msgstr ""
+
+#: includes/config.php:1422
+msgid "<strong>2. column</strong><br>Title"
+msgstr ""
+
+#: includes/config.php:1458
+msgid "<strong>3. column</strong><br>Title"
+msgstr ""
+
+#: includes/config.php:1498
+msgid "Post"
+msgstr ""
+
+#: includes/config.php:1506
+msgid "Select from the posts."
+msgstr ""
+
+#: includes/config.php:1515
+msgid "Post Carousel"
+msgstr ""
+
+#: includes/config.php:1522
+msgid "Category"
+msgstr ""
+
+#: includes/config.php:1523
+msgid "Select a category or leave it blank for all posts."
+msgstr ""
+
+#: includes/config.php:1530
+msgid "Number of columns on big screens."
+msgstr ""
+
+#: includes/config.php:1541
+msgid "Delay"
+msgstr ""
+
+#: includes/config.php:1542
+msgid "The delay for autoplay in sec. (default: false)"
+msgstr ""
+
+#: includes/config.php:1547
+msgid "Pagination"
+msgstr ""
+
+#: includes/config.php:1557
+msgid "Navigation"
+msgstr ""
+
+#: includes/config.php:1573
+msgid "Quote Carousel"
+msgstr ""
+
+#: includes/config.php:1576
+msgid "Click 'Add Quote' to add a new quote."
+msgstr ""
+
+#: includes/config.php:1589
+msgid "Author Role"
+msgstr ""
+
+#: includes/config.php:1590
+msgid "Add some text."
+msgstr ""
+
+#: includes/config.php:1595
+msgid "Author image"
+msgstr ""
+
+#: includes/config.php:1596
+msgid "Add an image link."
+msgstr ""
+
+#: includes/config.php:1606
+msgid "Add Quote"
+msgstr ""
+
+#: includes/shortcodes.php:96
+msgid "Share on Facebook"
+msgstr ""
+
+#: includes/shortcodes.php:99
+msgid "Tweet"
+msgstr ""
+
+#: includes/shortcodes.php:102
+msgid "Share on Google+"
+msgstr ""
+
+#: includes/shortcodes.php:105
+msgid "Post to Tumblr"
+msgstr ""
+
+#: includes/shortcodes.php:108
+msgid "Pin it"
+msgstr ""
+
+#: includes/shortcodes.php:111
+msgid "Submit to Reddit"
+msgstr ""
+
+#: includes/shortcodes.php:114
+msgid "Share on LinkedIn"
+msgstr ""
+
+#: includes/shortcodes.php:117
+msgid "Email"
+msgstr ""
+
+#: includes/shortcodes.php:862 includes/shortcodes.php:864
+#: includes/shortcodes.php:953 includes/shortcodes.php:955
+msgid "Read more"
+msgstr ""
+
+#: includes/shortcodes.php:883 includes/shortcodes.php:979
+msgid ", "
+msgstr ""

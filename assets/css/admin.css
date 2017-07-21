@@ -1,0 +1,101 @@
+.shortcode-dashicon:before {
+	line-height:inherit;
+}
+
+.namaste-shortcode-wrap table { width: 100%; }
+
+.namaste-shortcode-wrap .namaste-sortable table {
+	background: #f7f7f7;
+	border-radius: 3px;
+	border: 1px solid #e0e0e0;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	cursor: move;
+	margin-bottom: 10px;
+	padding: 15px;
+}
+
+.namaste-shortcode-wrap .namaste-sortable .namaste-sortable-placeholder {
+	background: #f7f7f7;
+	border: dashed 2px #e0e0e0;
+	border-radius: 3px;
+	height: 60px;
+	margin-bottom: 10px;
+}
+
+.namaste-shortcode-wrap td {
+	padding: 8px 0;
+	vertical-align: top;
+}
+
+.namaste-shortcode-wrap .label { padding-top: 13px; }
+
+#insert-button-shortcode label {
+	display: inline-block;
+	width: 20%;
+}
+
+.namaste-shortcode-select { margin: 10px 0 30px 0; }
+
+.namaste-shortcode-wrap input[type="text"],
+.namaste-shortcode-wrap textarea {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	width: 100%;
+}
+
+.namaste-form-desc {
+	color: #aaa;
+	display: block;
+	font-size:  12px;
+	font-style: italic;
+	padding-top: 3px;
+}
+
+.namaste-notes { font-style: italic; }
+
+.namaste-shortcode-wrap .namaste-cancel-shortcode-insert { margin-left: 1.25em; }
+
+.webzakt-button {
+    font-size: 18px;
+    margin: 25px 15px 15px 0;
+    line-height: 1;
+    cursor: pointer;
+    position: relative;
+    font-family: inherit;
+    text-decoration: none;
+    overflow: visible;
+    padding: 12px 24px;
+    font-weight: 700;
+    border-radius: 3px;
+    left: auto;
+    color: #fff !important;
+    background-color: #E84E41;
+    border: 0;
+    white-space: nowrap;
+    display: inline-block;
+    background-image: none;
+    box-shadow: none;
+    -webkit-box-shadow: none;
+    text-shadow: none;
+}
+
+.webzakt-button-pro:hover {
+	background-color: #2E3138!important;
+}
+
+.webzakt-button-more {
+	background-color: #2E3138!important;
+}
+
+.webzakt-button-more:hover {
+	background-color: #E84E41!important;
+}
+
+#ui-id-7 {
+	background: #E84E41;
+    border-color: #2E3138;
+	color: #fff!important;
+}
